@@ -20,9 +20,13 @@ Conducted an in-depth analysis of a dataset capturing layoff trends across top c
 
 ![1](https://github.com/user-attachments/assets/0b77298a-9ad4-4f86-af23-3dc0ffe801e8)
 ![2](https://github.com/user-attachments/assets/425ac2e8-60b2-4dc7-8013-7911ddf8de59)
+                         Fig 1 & 2: Data analysis
 ![3 dupl](https://github.com/user-attachments/assets/e92f9ecf-4e45-4c70-9b67-f1fe44753ed0)
 ![4 remove dupl](https://github.com/user-attachments/assets/6e59031d-1da6-4d4f-95a8-d884d9d193f9)
+                         Fig 3 & 4: Removing duplicate values
 ![5 delete   remove null](https://github.com/user-attachments/assets/8546dde6-2088-4bb0-879a-74deb22b0abc)
+                         Fig 5: Removing null values and unwanted columns
 ![6 1 EDA](https://github.com/user-attachments/assets/ac8e5709-1b06-4501-a0a3-a79e223b3f7e)
 ![7 2 EDA](https://github.com/user-attachments/assets/66cf3be1-07e9-4b71-ae08-bb6f974d20c4)
 ![8 3 EDA](https://github.com/user-attachments/assets/c6478610-e7f7-4d05-9702-ea093f710331)
+                         Fig 6,7,8: EDA for key insights
