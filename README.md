@@ -20,7 +20,7 @@ Conducted an in-depth analysis of a dataset capturing layoff trends across top c
 
 ![3 dupl](https://github.com/user-attachments/assets/e92f9ecf-4e45-4c70-9b67-f1fe44753ed0)
 ![4 remove dupl](https://github.com/user-attachments/assets/6e59031d-1da6-4d4f-95a8-d884d9d193f9)
-                         ## Fig 3 & 4: Removing duplicate values
+                          Fig 1 & 2: Removing duplicate values
 ![5 delete   remove null](https://github.com/user-attachments/assets/8546dde6-2088-4bb0-879a-74deb22b0abc)
                          Fig 5: Removing null values and unwanted columns
 ![6 1 EDA](https://github.com/user-attachments/assets/ac8e5709-1b06-4501-a0a3-a79e223b3f7e)
