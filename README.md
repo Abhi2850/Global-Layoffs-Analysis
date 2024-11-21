@@ -18,9 +18,6 @@ Conducted an in-depth analysis of a dataset capturing layoff trends across top c
 # Visuals
 
 
-![1](https://github.com/user-attachments/assets/0b77298a-9ad4-4f86-af23-3dc0ffe801e8)
-![2](https://github.com/user-attachments/assets/425ac2e8-60b2-4dc7-8013-7911ddf8de59)
-                         Fig 1 & 2: Data analysis
 ![3 dupl](https://github.com/user-attachments/assets/e92f9ecf-4e45-4c70-9b67-f1fe44753ed0)
 ![4 remove dupl](https://github.com/user-attachments/assets/6e59031d-1da6-4d4f-95a8-d884d9d193f9)
                          Fig 3 & 4: Removing duplicate values
